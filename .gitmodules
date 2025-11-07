@@ -1,3 +1,4 @@
 [submodule "powerTimer-Arduino_Library"]
 	path = powerTimer-Arduino_Library
 	url = https://github.com/jfm92/powerTimer-Arduino_Library
+	branch = main
