@@ -4,7 +4,7 @@
 
 The Power Timer is an ultra-low power module that allows you to control the output power by software. It is mainly based on a Real-Time Clock (RTC) and an RS circuit. Thanks to the RTC, you can control the exact wake-up date or the periodicity. It also allows for external interruptions, which gives you the benefits of ultra-low power consumption while being able to connect other types of sensors. The module is based on the RV3028-C7 chip. It is also compatible with Arduino, thanks to its custom library.
 
-The sleep current of the module is around 60nA at 3.3V, making it ideal for battery-powered applications.
+The sleep current of the module is around 50nA at 3.3V, making it ideal for battery-powered applications.
 
 <img src="images/powerTimer_PCB.jpg" width="700"/>
 
