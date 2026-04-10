@@ -8,6 +8,18 @@ The sleep current of the module is around 60nA at 3.3V, making it ideal for batt
 
 <img src="images/powerTimer_PCB.jpg" width="700"/>
 
+## Consumption comparison:
+
+Demo with software **sleep modes**:
+
+<img src="images/demo_no_pt.png" width = "700"/>
+
+Same demo **with powerTimer**:
+
+<img src="images/demo_pt.png" width = "700"/>
+
+### 734.000 times less idle consumption!
+
 ## How it works
 
 The module is designed to be a versatile power control unit for your projects. It can be used as a simple timer to power on a device at a specific time or periodically, or it can be used as a power management unit that can be woken up by external events.
